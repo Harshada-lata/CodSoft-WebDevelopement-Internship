@@ -2,7 +2,7 @@
 
 CodSoft-Internship
 
-level1-Task2-Landing-page -CodSoft-Web Developement
+CodSoft-Web Developement
 I have completed tasks given for my internship as a Web Developer in CodSoft. I hope it will be helpfull for you.
 
 (Level 1)
